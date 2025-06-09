@@ -1,0 +1,12 @@
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Database1.mdf
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Database1_log.ldf
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Tienda-AccesoDatos.dll.config
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Tienda-AccesoDatos.dll
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Tienda-AccesoDatos.pdb
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Tienda-Entidades.dll
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\bin\Debug\Tienda-Entidades.pdb
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\obj\Debug\Tienda-A.39F89D0C.Up2Date
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.dll
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.pdb

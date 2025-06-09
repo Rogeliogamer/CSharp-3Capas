@@ -1,0 +1,6 @@
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-Entidades\bin\Debug\Tienda-Entidades.dll
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-Entidades\bin\Debug\Tienda-Entidades.pdb
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-Entidades\obj\Debug\Tienda-Entidades.csproj.AssemblyReference.cache
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-Entidades\obj\Debug\Tienda-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-Entidades\obj\Debug\Tienda-Entidades.dll
+C:\Users\rogel\OneDrive\Escritorio\Semestre 10\Programación En Ambientes Distribuidos\CSharp-3Capas\Tienda-Entidades\obj\Debug\Tienda-Entidades.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rogel\\OneDrive\\Escritorio\\Semestre 10\\Programaci\u00F3n En Ambientes Distribuidos\\CSharp-3Capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A4323C-DE4B-4E38-91FB-311A6BCD6587}|Tienda-Entidades\\Tienda-Entidades.csproj|c:\\users\\rogel\\onedrive\\escritorio\\semestre 10\\programaci\u00F3n en ambientes distribuidos\\csharp-3capas\\tienda-entidades\\eproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A4323C-DE4B-4E38-91FB-311A6BCD6587}|Tienda-Entidades\\Tienda-Entidades.csproj|solutionrelative:tienda-entidades\\eproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3FF7A9-6AA3-44F6-A548-E378F7F17060}|Tienda-LogicaNegocio\\Tienda-LogicaNegocio.csproj|c:\\users\\rogel\\onedrive\\escritorio\\semestre 10\\programaci\u00F3n en ambientes distribuidos\\csharp-3capas\\tienda-logicanegocio\\productobol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3FF7A9-6AA3-44F6-A548-E378F7F17060}|Tienda-LogicaNegocio\\Tienda-LogicaNegocio.csproj|solutionrelative:tienda-logicanegocio\\productobol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EProducto.cs",
+              "DocumentMoniker": "C:\\Users\\rogel\\OneDrive\\Escritorio\\Semestre 10\\Programaci\u00F3n En Ambientes Distribuidos\\CSharp-3Capas\\Tienda-Entidades\\EProducto.cs",
+              "RelativeDocumentMoniker": "Tienda-Entidades\\EProducto.cs",
+              "ToolTip": "C:\\Users\\rogel\\OneDrive\\Escritorio\\Semestre 10\\Programaci\u00F3n En Ambientes Distribuidos\\CSharp-3Capas\\Tienda-Entidades\\EProducto.cs",
+              "RelativeToolTip": "Tienda-Entidades\\EProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:39:58.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoBol.cs",
+              "DocumentMoniker": "C:\\Users\\rogel\\OneDrive\\Escritorio\\Semestre 10\\Programaci\u00F3n En Ambientes Distribuidos\\CSharp-3Capas\\Tienda-LogicaNegocio\\ProductoBol.cs",
+              "RelativeDocumentMoniker": "Tienda-LogicaNegocio\\ProductoBol.cs",
+              "ToolTip": "C:\\Users\\rogel\\OneDrive\\Escritorio\\Semestre 10\\Programaci\u00F3n En Ambientes Distribuidos\\CSharp-3Capas\\Tienda-LogicaNegocio\\ProductoBol.cs",
+              "RelativeToolTip": "Tienda-LogicaNegocio\\ProductoBol.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:36:42.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
